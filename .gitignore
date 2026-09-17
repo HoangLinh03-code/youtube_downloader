@@ -1,0 +1,6 @@
+.venv
+.qodo
+*.part
+*.ytdl
+*.mp4
+downloaded.txt
